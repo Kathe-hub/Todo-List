@@ -1,0 +1,51 @@
+@import url('http://fonts.cdnfonts.com/css/fangira');
+
+body {
+    font-family: 'fangira', sans-serif;                                  
+    background-color: #FBDA61;
+    background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.caja1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    padding: 30px;
+    border-radius: 20%;
+    border: solid 2px rgb(71, 69, 69);
+}
+
+#guardar {
+    background-color: #FBDA61;
+    background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+    width: 80px;
+    height: 30px;
+    border-radius: 15%;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px gray;
+    font-size: 15px;
+}
+
+th {
+    padding: 10px 50px;
+}
+
+td {
+    padding: 10px 50px;
+    text-align: center;
+}
