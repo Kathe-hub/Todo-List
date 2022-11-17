@@ -1,7 +1,7 @@
 # Todo-List
 ## Lista de pendientes
 
-Creación de sitio web que muestra una lista de actividades pendientes. Contiene 3 actividades seteadas con checkbox para marcar las realizadas y agregar las nuevas tareas, además muestra una cuenta del total de actividades.
+Creación de sitio web que muestra una lista de actividades pendientes. Contiene 3 actividades seteadas con checkbox para marcar las realizadas y agregar las nuevas tareas, además muestra una cuenta del total de actividades y la eliminación de tareas si así se requiere.
 
 Tecnologías utilizadas:
 - _**HTML5**_
